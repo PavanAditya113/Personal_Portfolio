@@ -1,0 +1,66 @@
+.home{
+    background-color: #343f4f;
+    background-size: cover;
+    box-sizing: border-box;
+}
+@media screen and (max-width: 600px) {
+    .text {
+      font-size: 20px;
+    }
+  }
+ 
+ .textd{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #c5a173 !important;
+ }
+ 
+.NAV{
+    font-family: 'Nunito', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.nav-link{
+    color: white;
+    transition: color 1s;
+    margin: 7px;
+    
+}
+.nav-link:hover
+{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    color: brown;
+    font-weight: bolder;
+    
+}
+.details{
+    line-height: 500px;
+    padding-left: 30px;
+    color: white ;
+    font-weight: 200px;
+}
+.icon{
+    padding-left: 0;
+}
+.picture{
+    padding-right: 0;
+    padding-top: 25px;
+   
+}
+.text{
+   padding-top: 100px;
+   padding-left: 20px;
+}
+.about-heading{
+    text-transform: uppercase;
+    color: #bc2c3d;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+.about-heading h2{
+    color: #2c2627;
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+}

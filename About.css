@@ -1,0 +1,38 @@
+.About{
+    background-color: #edeae6;
+}
+.aboutpic{
+    height: 300px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 50%;
+}
+.about-heading{
+    margin-top: 60px;
+    font-size: 40px;
+font-family: 'Open Sans', sans-serif;
+color: red;
+font-weight: 600;
+
+}
+.about-heading h2{
+    font-family: 'Josefin Sans', sans-serif;
+    justify-content: left;
+}
+.about-note{
+    font-family: 'Josefin Sans', sans-serif;
+    justify-content: left;
+    margin-left: 10px;
+    font-size: large;
+   line-height: -7px;
+margin-bottom: 150px;
+}
+.ic1{
+   
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.icon-group{
+    padding-top: 10px;
+}

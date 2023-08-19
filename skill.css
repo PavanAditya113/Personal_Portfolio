@@ -1,0 +1,64 @@
+.skills{
+    background-color: #bc2c3d;
+    padding: 4%;
+    color: #edeae6;
+}
+
+.skills-heading p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600px;
+ 
+}
+.skills-heading h2 {
+    font-family: 'Montserrat', sans-serif;
+    
+   font-weight: 700px;
+    font-size: 60px;
+}
+.text{
+  width: 45%;
+  border: 5px solid  #edeae6;
+  font-size: larger;
+  font-weight: 400px;
+  padding-top: 10px;
+  font-family: 'Josefin Sans', sans-serif;
+  overflow: hidden;
+}
+h3.text{
+    font-weight:bolder;
+}
+p.text{
+    padding-bottom: 0;
+}
+#text1:hover{
+position:relative;
+margin-top:2px;
+box-shadow: 4px 4px black;
+
+}
+#text2:hover{
+    position:relative;
+    margin-top:2px;
+    box-shadow: 4px 4px black ;
+}
+#text3:hover{
+    position:relative;
+    margin-top:2px;
+    box-shadow: 4px 4px black;
+    
+}
+#text4:hover{
+    position:relative;
+    margin-top:2px;
+    box-shadow: 4px 4px black;
+    
+}
+@media screen and (max-width: 600px) {
+    .text {
+        margin-bottom: 15px;
+      font-size: 20px;
+    }
+    #text1{
+        margin-bottom: 30px;
+    }
+  }
